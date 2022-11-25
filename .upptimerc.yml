@@ -9,8 +9,18 @@ sites:
     url: https://profishingkit.com
   - name: Nextshop.com.bd
     url: https://www.nextshop.com.bd
-  - name: Abu sayed
+  - name: Abu Sayed
     url: https://abusayed.dev
+  - name: Abu Sayed(Blog)
+    url: https://blog.abusayed.dev
+  - name: BGSHIP
+    url: https://bgship.com
+  - name: RIOM
+    url: https://riom.xyz
+  - name: QDeal
+    url: https://qdeal.xyz
+  
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,7 +32,7 @@ status-website:
   introTitle: "Website for monitoring uptime"
   introMessage: Just a website!
   navbar:
-    - title: Status
+    - title: Status Website
       href: /
 
 
