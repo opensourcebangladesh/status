@@ -81,19 +81,19 @@
     "url": "https://blog.abusayed.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.abusayed.dev.ico",
     "slug": "abu-sayed-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 2192,
-    "timeWeek": 1127,
-    "timeMonth": 894,
-    "timeYear": 894,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 882,
+    "timeDay": 1942,
+    "timeWeek": 1086,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2022-12-15": 0
+      "2022-12-15": 8
     }
   },
   {
