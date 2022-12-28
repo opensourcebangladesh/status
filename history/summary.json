@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nextshop.com.bd.ico",
     "slug": "nextshop-com-bd",
     "status": "down",
-    "uptime": "94.29%",
+    "uptime": "94.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.34%",
-    "uptimeMonth": "91.14%",
-    "uptimeYear": "94.29%",
+    "uptimeWeek": "61.38%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "94.16%",
     "time": 298,
     "timeDay": 0,
     "timeWeek": 271,
     "timeMonth": 306,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-12-28": 519,
+      "2022-12-28": 617,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 397,
@@ -87,19 +87,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.abusayed.dev.ico",
     "slug": "abu-sayed-blog",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 786,
     "timeDay": 1839,
     "timeWeek": 764,
     "timeMonth": 825,
     "timeYear": 786,
-    "dailyMinutesDown": {
-      "2022-12-28": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BGSHIP",
@@ -124,10 +122,10 @@
     "url": "https://riom.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/riom.xyz.ico",
     "slug": "riom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
@@ -135,7 +133,9 @@
     "timeWeek": 62,
     "timeMonth": 91,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-28": 1
+    }
   },
   {
     "name": "QDeal",
