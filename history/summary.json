@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nextshop.com.bd.ico",
     "slug": "nextshop-com-bd",
     "status": "down",
-    "uptime": "91.13%",
+    "uptime": "90.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.12%",
-    "uptimeMonth": "85.57%",
-    "uptimeYear": "91.13%",
+    "uptimeWeek": "36.01%",
+    "uptimeMonth": "85.08%",
+    "uptimeYear": "90.87%",
     "time": 298,
     "timeDay": 0,
     "timeWeek": 297,
     "timeMonth": 306,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-12-30": 80,
+      "2022-12-30": 293,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
@@ -124,9 +124,9 @@
     "url": "https://riom.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/riom.xyz.ico",
     "slug": "riom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,7 +135,9 @@
     "timeWeek": 80,
     "timeMonth": 94,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-30": 0
+    }
   },
   {
     "name": "QDeal",
